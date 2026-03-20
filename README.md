@@ -50,7 +50,7 @@ cd stremio-anitube
 npm install
 
 # 3. Inicie o servidor
-npm start
+node server.js
 ```
 
 ### Instalar no Stremio
